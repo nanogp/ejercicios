@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1524247170 source:d:\github\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"funciones_generales.h"
+	"menus.h"
+	"procesamiento.h"
+
+1524073052 d:\github\funciones_generales.h
+
+1524162426 d:\github\menus.h
+
+1524073052 d:\github\tools\funciones_generales.h
+
+1524162426 d:\github\tools\menus.h
+
+1524244350 source:d:\github\estructuras\arrays.c
+	"estructuras.h"
+
+1524244077 d:\github\estructuras\estructuras.h
+
+1524236166 source:d:\github\estructuras\funciones_generales.c
+	<stdio.h>
+	<stdlib.h>
+
+1524245054 d:\github\estructuras\funciones_generales.h
+
+1524243814 d:\github\estructuras\menus.h
+
+1524244903 d:\github\estructuras\procesamiento.h
+
+1524245275 source:d:\github\estructuras\menus.c
+	<stdio.h>
+	"estructuras.h"
+	"arrays.h"
+	"funciones_generales.h"
+
+1524244394 d:\github\estructuras\arrays.h
+
+1524246127 source:d:\github\estructuras\procesamiento.c
+	<stdio.h>
+	<string.h>
+	"funciones_generales.h"
+	"estructuras.h"
+	"arrays.h"
+
