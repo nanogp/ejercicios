@@ -6,7 +6,7 @@
 
 void mostrarProducto(const eProducto producto)
 {
-    printf("\nCodigo:%d | Descripcion: %-20s | precio al costo: %20.2f | stock: %d", producto.codigo, producto.descripcion, producto.precioCosto, producto.stock);
+    printf("\nProducto: %d - %s - $%.2f - stock: %d", producto.codigo, producto.descripcion, producto.precioCosto, producto.stock);
 
 }
 
@@ -16,11 +16,12 @@ void mostrarInventario(const eProducto inventario[])
 
     for(i=0 ; i<NRO_MAX_PRODUCTOS ; i++)
     {
-        if(inventario->codigo != 0)
+        if((inventario[i]).codigo != 0)
         {
             mostrarProducto(inventario[i]);
         }
     }
+    ejecutarEnConsola(HACER_PAUSA);
 }
 
 int pedirInt(const char mensajeIngreso[])

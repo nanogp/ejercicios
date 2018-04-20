@@ -46,3 +46,42 @@
 	"estructuras.h"
 	"arrays.h"
 
+1524244350 source:c:\test\mponti\github\ejercicios\estructuras\arrays.c
+	"estructuras.h"
+
+1524244077 c:\test\mponti\github\ejercicios\estructuras\estructuras.h
+
+1524236166 source:c:\test\mponti\github\ejercicios\estructuras\funciones_generales.c
+	<stdio.h>
+	<stdlib.h>
+
+1524252893 source:c:\test\mponti\github\ejercicios\estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"estructuras.h"
+	"funciones_generales.h"
+	"menus.h"
+	"procesamiento.h"
+
+1524245054 c:\test\mponti\github\ejercicios\estructuras\funciones_generales.h
+
+1524243814 c:\test\mponti\github\ejercicios\estructuras\menus.h
+
+1524244903 c:\test\mponti\github\ejercicios\estructuras\procesamiento.h
+
+1524245275 source:c:\test\mponti\github\ejercicios\estructuras\menus.c
+	<stdio.h>
+	"estructuras.h"
+	"arrays.h"
+	"funciones_generales.h"
+
+1524244394 c:\test\mponti\github\ejercicios\estructuras\arrays.h
+
+1524252839 source:c:\test\mponti\github\ejercicios\estructuras\procesamiento.c
+	<stdio.h>
+	<string.h>
+	"funciones_generales.h"
+	"estructuras.h"
+	"arrays.h"
+

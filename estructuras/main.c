@@ -40,10 +40,12 @@ int main()
                 else
                 {
                     inventario[lugarEnInventario] = CrearProducto();
+                    ordenarProductos(inventario);
                 }
                 break;
             case 2:
                 mostrarInventario(inventario);
+                //ejecutarEnConsola(HACER_PAUSA);
                 break;
             case 9:
                 salirDePrograma = pedirConfirmacion("Desea salir del programa?");
